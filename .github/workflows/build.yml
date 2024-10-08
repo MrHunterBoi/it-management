@@ -23,7 +23,7 @@ jobs:
       run: mkdir _build
 
     - name: Build Solution
-      run: msbuild.exe Lab.sln /p:platform="Any CPU" /p:configuration="Release"
+      run: msbuild.exe Lab.sln /p:platform="Any CPU" /p:configuration="Release" /p:PublishUrl="../_build"
 
     - name: Upload artifact
       uses: actions/upload-artifact@v3
