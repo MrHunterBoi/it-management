@@ -32,7 +32,7 @@ jobs:
       run: msbuild.exe Lab.sln /p:platform="Any CPU" /p:configuration="Release"
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v1.0.0
+      uses: actions/upload-artifact@v3
       with:
         name: LabBundle
         path: "./_build"
