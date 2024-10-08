@@ -19,14 +19,13 @@ jobs:
     - name: Navigate to Workspace
       run: cd $GITHUB_WORKSPACE
 
-    - name: Create Build Directory
-      run: mkdir _build
-
     - name: Build Solution
-      run: msbuild.exe Lab.sln /p:platform="Any CPU" /p:configuration="Release" /p:PublishUrl="../_build"
+      run: msbuild.exe Lab.sln /p:platform="Any CPU" /p:configuration="Release" 
 
-    - name: Upload artifact
+    - name: Publish Build Artifacts
+      if: success()
       uses: actions/upload-artifact@v3
       with:
-        name: LabBundle
-        path: "./_build"
+        name: BuildArtifacts
+        path: |
+          **/bin/Release/
