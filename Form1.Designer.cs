@@ -33,11 +33,11 @@
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.create_rect_btn = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.rectangle = new System.Windows.Forms.Panel();
             this.color_btn = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.color_panel = new System.Windows.Forms.Panel();
-            this.rectangle = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -81,6 +81,13 @@
             this.panel1.Size = new System.Drawing.Size(1324, 850);
             this.panel1.TabIndex = 3;
             // 
+            // rectangle
+            // 
+            this.rectangle.Location = new System.Drawing.Point(434, 287);
+            this.rectangle.Name = "rectangle";
+            this.rectangle.Size = new System.Drawing.Size(0, 0);
+            this.rectangle.TabIndex = 0;
+            // 
             // color_btn
             // 
             this.color_btn.Font = new System.Drawing.Font("Arial", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -114,19 +121,12 @@
             // 
             // color_panel
             // 
-            this.color_panel.BackColor = System.Drawing.Color.Black;
+            this.color_panel.BackColor = System.Drawing.Color.DarkViolet;
             this.color_panel.ForeColor = System.Drawing.Color.Black;
             this.color_panel.Location = new System.Drawing.Point(35, 179);
             this.color_panel.Name = "color_panel";
             this.color_panel.Size = new System.Drawing.Size(43, 40);
             this.color_panel.TabIndex = 6;
-            // 
-            // rectangle
-            // 
-            this.rectangle.Location = new System.Drawing.Point(434, 287);
-            this.rectangle.Name = "rectangle";
-            this.rectangle.Size = new System.Drawing.Size(0, 0);
-            this.rectangle.TabIndex = 0;
             // 
             // Form1
             // 

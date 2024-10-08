@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\Study\\ITManagement\\it-management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC790D75-365A-43E2-9EF3-4B4D5F17012E}|Lab.csproj|f:\\study\\itmanagement\\it-management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BC790D75-365A-43E2-9EF3-4B4D5F17012E}|Lab.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC790D75-365A-43E2-9EF3-4B4D5F17012E}|Lab.csproj|F:\\Study\\ITManagement\\it-management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC790D75-365A-43E2-9EF3-4B4D5F17012E}|Lab.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC790D75-365A-43E2-9EF3-4B4D5F17012E}|Lab.csproj|f:\\study\\itmanagement\\it-management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC790D75-365A-43E2-9EF3-4B4D5F17012E}|Lab.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\Study\\ITManagement\\it-management\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "F:\\Study\\ITManagement\\it-management\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwC8AAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T16:54:46.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "F:\\Study\\ITManagement\\it-management\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

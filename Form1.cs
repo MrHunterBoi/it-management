@@ -12,7 +12,7 @@ namespace Lab
 {
     public partial class Form1 : Form
     {
-        private Color color = Color.Black;
+        private Color color = Color.DarkViolet;
         private double width = 0;
         private double height = 0;
 
