@@ -26,7 +26,7 @@ jobs:
         choco install nuget.commandline
 
     - name: Restore NuGet packages
-      run: nuget restore MySolution.sln
+      run: nuget restore Lab.sln
 
     - name: Build Solution
       run: msbuild.exe Lab.sln /p:platform="Any CPU" /p:configuration="Release" 
