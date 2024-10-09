@@ -19,8 +19,24 @@ jobs:
     - name: Navigate to Workspace
       run: cd $GITHUB_WORKSPACE
 
+    - name: Setup .NET Framework
+      run: |
+        choco install visualstudio2019community --package-parameters "--add Microsoft.VisualStudio.Workload.ManagedDesktop --includeRecommended --includeOptional"
+        choco install visualstudio2019-workload-vctest
+        choco install nuget.commandline
+
+    - name: Restore NuGet packages
+      run: nuget restore MySolution.sln
+
     - name: Build Solution
       run: msbuild.exe Lab.sln /p:platform="Any CPU" /p:configuration="Release" 
+
+    - name: Run MSTests
+      run: |
+        $testResultsFolder = "${{ github.workspace }}\TestResults"
+        mkdir $testResultsFolder
+        & "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.exe" RectangleService.Tests\bin\Release\RectangleService.Tests.dll
+      shell: pwsh
 
     - name: Publish Build Artifacts
       if: success()
