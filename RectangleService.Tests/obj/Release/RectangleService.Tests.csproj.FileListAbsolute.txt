@@ -1,0 +1,17 @@
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\RectangleService.Tests.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\RectangleService.Tests.pdb
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\RectangleService.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\RectangleService.pdb
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Study\ITManagement\it-management\RectangleService.Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Study\ITManagement\it-management\RectangleService.Tests\obj\Release\RectangleService.Tests.csproj.AssemblyReference.cache
+F:\Study\ITManagement\it-management\RectangleService.Tests\obj\Release\RectangleService.Tests.csproj.CoreCompileInputs.cache
+F:\Study\ITManagement\it-management\RectangleService.Tests\obj\Release\Rectangl.7374F88E.Up2Date
+F:\Study\ITManagement\it-management\RectangleService.Tests\obj\Release\RectangleService.Tests.dll
+F:\Study\ITManagement\it-management\RectangleService.Tests\obj\Release\RectangleService.Tests.pdb

@@ -18,6 +18,7 @@ namespace Lab
 
         private double centerX = 0;
         private double centerY = 0;
+        private RectangleService.RectangleService rectangleService = new RectangleService.RectangleService();
         public Form1()
         {
             InitializeComponent();
@@ -45,7 +46,7 @@ namespace Lab
 
         private void create_rect_btn_Click(object sender, EventArgs e)
         {
-            rectangle.Location = new Point((int)Math.Floor(centerX - width / 2), (int)Math.Floor(centerY - height / 2));
+            rectangle.Location = rectangleService.getRectangleLocation(centerX, centerY, width, height);
             rectangle.Size = new Size((int)Math.Floor(width), (int)Math.Floor(height));
             rectangle.BackColor = color;
         }

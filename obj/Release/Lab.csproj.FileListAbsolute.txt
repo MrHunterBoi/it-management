@@ -1,0 +1,10 @@
+F:\Study\ITManagement\it-management\bin\Release\Lab.exe.config
+F:\Study\ITManagement\it-management\bin\Release\Lab.exe
+F:\Study\ITManagement\it-management\bin\Release\Lab.pdb
+F:\Study\ITManagement\it-management\obj\Release\Lab.csproj.AssemblyReference.cache
+F:\Study\ITManagement\it-management\obj\Release\Lab.Form1.resources
+F:\Study\ITManagement\it-management\obj\Release\Lab.Properties.Resources.resources
+F:\Study\ITManagement\it-management\obj\Release\Lab.csproj.GenerateResource.cache
+F:\Study\ITManagement\it-management\obj\Release\Lab.csproj.CoreCompileInputs.cache
+F:\Study\ITManagement\it-management\obj\Release\Lab.exe
+F:\Study\ITManagement\it-management\obj\Release\Lab.pdb

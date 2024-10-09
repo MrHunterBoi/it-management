@@ -1,0 +1,6 @@
+F:\Study\ITManagement\it-management\RectangleService\bin\Release\RectangleService.dll
+F:\Study\ITManagement\it-management\RectangleService\bin\Release\RectangleService.pdb
+F:\Study\ITManagement\it-management\RectangleService\obj\Release\RectangleService.csproj.AssemblyReference.cache
+F:\Study\ITManagement\it-management\RectangleService\obj\Release\RectangleService.csproj.CoreCompileInputs.cache
+F:\Study\ITManagement\it-management\RectangleService\obj\Release\RectangleService.dll
+F:\Study\ITManagement\it-management\RectangleService\obj\Release\RectangleService.pdb

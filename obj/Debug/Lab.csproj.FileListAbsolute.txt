@@ -18,3 +18,6 @@ F:\Study\ITManagement\it-management\obj\Debug\Lab.csproj.GenerateResource.cache
 F:\Study\ITManagement\it-management\obj\Debug\Lab.csproj.CoreCompileInputs.cache
 F:\Study\ITManagement\it-management\obj\Debug\Lab.exe
 F:\Study\ITManagement\it-management\obj\Debug\Lab.pdb
+F:\Study\ITManagement\it-management\bin\Debug\RectangleService.dll
+F:\Study\ITManagement\it-management\bin\Debug\RectangleService.pdb
+F:\Study\ITManagement\it-management\obj\Debug\Lab.csproj.Up2Date
